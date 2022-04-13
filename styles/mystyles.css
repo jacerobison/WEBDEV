@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(226, 244, 249);
+}
+ol{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+li{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h3{
+    font-weight: 600;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.dogpoop {
+    color: grey;
+}
